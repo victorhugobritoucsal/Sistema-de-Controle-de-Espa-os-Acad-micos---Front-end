@@ -1,0 +1,8 @@
+.env
+node_modules/
+dist/
+.angular/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
